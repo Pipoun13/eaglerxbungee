@@ -3,7 +3,7 @@
       "module": "esnext",
       "esModuleInterop": true,
       "target": "es2017",
-      "moduleResolution": "node",
+      "moduleResolution": "bundler",
       "sourceMap": false,
       "outDir": "build"
     }
